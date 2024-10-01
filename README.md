@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Digital Forensic Investigation](https://github.com/lukeburas/)
+  - [Digital Forensics](https://github.com/lukeburas/DigitalForensics-.git)
 
 <h2>📄 Certifications</h2>
 
