@@ -6,11 +6,11 @@
 
 <h2>📄 Certifications</h2>
 
-- [CompTIA CySA+]
-- [CompTIA Security+]
-- [CompTIA Network+]
-- [CompTIA A+]
-- [Google IT Support Professional]
+- CompTIA CySA+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- Google IT Support Professional
 
 
 <h2>📺 Popular YouTube Videos</h2>
