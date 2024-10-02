@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Digital Forensics](https://github.com/lukeburas/DigitalForensics-.git)
-  - [Nmap and Wireshark]()
+  - [Nmap and Wireshark](https://github.com/lukeburas/Nmap-and-Wireshark)
 
 <h2>📄 Certifications</h2>
 
